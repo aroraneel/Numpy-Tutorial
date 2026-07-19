@@ -150,7 +150,7 @@ NumPy/
 Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/NumPy.git
+git clone https://github.com/aroraneel/Numpy-Tutorial
 ```
 
 Navigate to the project directory:
